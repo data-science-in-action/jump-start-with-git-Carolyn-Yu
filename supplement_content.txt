@@ -1,0 +1,2 @@
+Change your global setting to core.pager=cat： git config --global --replace-all core.pager cat
+Write the command to list all of the global configurations for git on your machine：git config --global -l
